@@ -136,3 +136,9 @@ Better-labelled data, improved text cleaning, and more advanced NLP models could
 This project demonstrates an end-to-end NLP classification workflow, including dataset preparation, train/test splitting, TF-IDF feature extraction, Logistic Regression training, model evaluation, rule-based urgency detection, model saving, and deployment through a Streamlit application.
 
 The final system successfully provides category and urgency predictions for new support tickets through a simple web interface.
+
+### Demo Screenshot
+
+The screenshot below shows the Streamlit application predicting the category and urgency of a new support ticket.
+
+![Streamlit Demo](screenshots/demo.png)
